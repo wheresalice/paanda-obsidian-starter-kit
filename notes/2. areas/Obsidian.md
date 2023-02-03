@@ -1,13 +1,13 @@
 Alice's PAANDA knowledge management system
 
 Directories:
-- 1. projects - for specific project documentation, one folder per project
-- 2. areas - for more generic notes
-- 3. archive - for old projects
-- 4. network #contact - for people
-- 5. daily #daily - for daily notes
-- 6. attachments
-- 9. templates
+- `1. projects` - for specific project documentation, one folder per project
+- `2. areas` - for more generic notes
+- `3. archive` - for old projects
+- `4. network` #contact - for people
+- `5. daily` #daily - for daily notes
+- `6. attachments`
+- `9. templates`
 
 ## Plugins
 - Backlinks

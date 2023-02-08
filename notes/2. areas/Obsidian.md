@@ -34,3 +34,4 @@ Sync is currently running on top of OneDrive (which is a company standard). For 
 * Daily template based on https://dannb.org/blog/2022/obsidian-daily-note-template/
 * Structure based on PAAN but with added dailies and Areas probably used incorrectly (it should probably be Anything else) https://forum.obsidian.md/t/paan-starter-kit/21782 
 * Decision template based on https://adr.github.io/madr/
+* Meeting template based on https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_13_Meeting/0A_13_1_Meeting.md

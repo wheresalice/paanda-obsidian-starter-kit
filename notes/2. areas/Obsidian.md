@@ -11,7 +11,7 @@ Directories:
 
 ## Plugins
 - Backlinks
-- Daily notes - use `YYYY/MM-MMMM/YYYY-MM-DD-dddd` as the format
+- Daily notes - use `YYYY/MM-MMMM/YYYY-MM-DD-dddd` as the format and use the Daily Note Template as the template
 - Calendar
 - Dataview
 - Jira issue - configure your Jira server
@@ -32,4 +32,5 @@ Sync is currently running on top of OneDrive (which is a company standard). For 
 
 * Person template based on https://juliaferraioli.com/blog/2023/obsidian-rolodex/
 * Daily template based on https://dannb.org/blog/2022/obsidian-daily-note-template/
-* Structure based on PAAN but with added dailies (and Areas probably used incorrectly) https://forum.obsidian.md/t/paan-starter-kit/21782 
+* Structure based on PAAN but with added dailies and Areas probably used incorrectly (it should probably be Anything else) https://forum.obsidian.md/t/paan-starter-kit/21782 
+* Decision template based on https://adr.github.io/madr/

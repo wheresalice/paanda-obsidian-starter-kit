@@ -15,7 +15,7 @@ title:
 location: 
 website: 
 socials:
-* slack:
+- slack:
 - github: 
 - linkedin: 
 - mastodon: 

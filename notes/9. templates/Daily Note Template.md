@@ -9,7 +9,7 @@ tags:
 << [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 ---
-### 📅 Daily Questions
+### ❓ Daily Questions
 ##### 🌜 Last night, after work, I...
 - 
 
@@ -21,6 +21,10 @@ tags:
 
 ##### 👎 One thing I'm struggling with today is...
 - 
+
+### 🗓️ Meeting Notes
+
+#### Daily Standup
 
 ---
 # 📝 Notes

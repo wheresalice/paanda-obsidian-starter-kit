@@ -10,8 +10,6 @@ tags:
 
 ---
 ### ❓ Daily Questions
-##### 🌜 Last night, after work, I...
-- 
 
 ##### 🙌 One thing I've excited about right now is...
 - 
@@ -29,9 +27,6 @@ tags:
 ---
 # 📝 Notes
 - <% tp.file.cursor() %>
-
-## Interesting links
-- 
 
 ## Gratitude
 - 

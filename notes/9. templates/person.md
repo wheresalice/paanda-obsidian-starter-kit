@@ -26,3 +26,8 @@ socials:
 - 
 
 ---
+## mentions
+
+```dataview
+list from "5. daily" and [[]]
+```
